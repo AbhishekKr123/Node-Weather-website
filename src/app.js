@@ -34,7 +34,7 @@ app.get('/help', (req, res) => {
   res.render('help', {
     helpText: 'Type any address to get the Weather info of the location.',
     title: 'Help',
-    name: 'Help Page'
+    name: 'Abhishek Kumar'
   });
 });
 
